@@ -1,0 +1,243 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #000 !important;
+}
+.nav-link{
+    margin-left: 15px;
+    color: white !important;
+}
+.navbar-nav{
+    padding-right: 180px;
+}
+.navbar-brand{
+    padding-left: 120px;
+}
+.text-area img{
+    padding-top: 100px;
+}
+.banner{
+    background-image: url(axit.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.title{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 36px;
+}
+.description{
+    color:gray;
+}
+.line{
+    height: 2px;
+    width: 80px;
+    background: white; 
+    margin: 20px 0px;  
+}
+.download{
+    padding: 12px 30px;
+    border: none;
+    background: none;
+    color: white;
+    border: 2px solid white;
+}
+.banner-form{
+   
+    height: 100vh;
+    align-items: center;
+    display: flex;
+}
+
+.card{
+    margin-left: 100px;
+}
+.card-header h1{
+    font-size: 26px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: #333333;
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid #d6d6d6;
+}
+.form-group{
+    margin-bottom: 2rem;
+}
+.form-control:focus{
+    box-shadow: none;
+    
+}
+.card-body{
+    padding: 1.25rem 2rem;
+}
+.submit-btn{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #ff7d1e !important;
+}
+.social-icon li{
+    list-style: none;
+    display: inline-block;
+    float: left;
+    font-size: 50px;
+    margin-right: 30px; 
+}
+.social-icon li i{
+    color: #cccccc;
+}
+.social-media{
+    border-bottom: 2px solid lightgray;
+}
+.feature-1{
+    width: 100%;
+    background: #f5f5f5;
+    padding: 120px;
+}
+.feature-1 ul li{
+    list-style: none;
+    background: #333333;
+    border-bottom: 1px solid white;
+    text-align: center;
+    width: 110px;
+    height: 100px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.active{
+    background: #ff7d1e !important;
+}
+.tab{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.des{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-top: 22px;
+    font-size: 16px;
+    color: #86878b;
+}
+.main-button{
+    padding: 12px 30px;
+    background: #ff7d1e;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.main-button:focus{
+    display: none;
+}
+.taj{
+    display: flex;
+    align-items: center;
+}
+.feature-2{
+    padding: 100px 0;
+}
+.circle {
+    height: 60px;
+    width: 60px;
+    background: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    color: #ff8b38;
+    font-size: 25px;
+    border: 2px solid #ff8b38;
+}
+.sub-line{
+    height: 2px;
+    width: 80px;
+    background: #ff8b38; 
+    margin: 20px 0px;  
+}
+.sub-list{
+    padding-left: 40px;
+}
+.feature-3{
+    width: 100%;
+    background: #f5f5f5;
+    padding: 100px;
+    margin-bottom: 80px;
+}
+.pictures{
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #86878b;
+    margin-top: 24px;
+}
+.pic{
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+}
+.awsome-line{
+    height: 3px;
+    width: 70px;
+    background: #ff8b38; 
+    margin: 20px 0px; 
+   margin-left: 500px;
+}
+.why{
+    text-align: center;
+    margin-bottom: 40px;
+   
+}
+.this{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 46px;
+    font-weight: 400;
+    color: #212121;
+}
+.design{
+    color:#333333;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    margin: 29px 0;
+}
+.circle-design{
+    height: 60px;
+    width: 60px;
+    background: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    color: #ff8b38;
+    font-size: 25px;
+    border: 2px solid #ff8b38;
+    margin-left: 130px;
+}
+.midlle{
+    text-align: center;
+}
+.tem{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #86878b;
+    margin-top: 24px;
+}
