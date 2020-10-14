@@ -1,0 +1,311 @@
+
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+
+    .navbar{
+        padding-right: 40px;
+    }
+    .navbar-brand{
+        padding-left: 40px;
+    }
+    .text-area img{
+        padding-top: 0;
+      }
+      .banner-form{
+          height: auto;
+      } 
+      .banner{
+          height: auto;
+      }
+      .banner .col-md-6{
+          padding: 60px 0px;
+      }
+      .card{
+          margin-left: 20px;
+      }
+      .title{
+          font-size: 26px;
+      }
+      .card-header h1{
+          font-size: 25px;
+      }
+      .navbar-toggler{
+          background-color: white !important;
+      }
+      .social-icon li{
+          font-size: 37px;
+      }
+     .social-icon{
+         padding-top: 30px;
+     }
+     .feature-1{
+         padding: 0;
+         padding: 60px 0px;
+     }
+     .feature-1 ul{
+         padding-top: 45px;
+        padding-left: 0px;
+     }
+     .feature-1 .col-md-2{
+         padding-left: 0px;
+     }
+     .tab {
+         font-size: 19px;
+     }
+     .feature-2 .row{
+         flex-direction: column;
+     }
+     .feature-2 img{
+         text-align: center;
+     }
+     .feature-2 .col-md-6{
+         max-width: 100%;
+         text-align: center;
+     }
+     .feature-2{
+         padding: 60px 0px;
+     }
+     .sub-line {
+        margin: 20px auto;
+     }
+     .feature-2 .col-md-10{
+        max-width: 100%;
+        text-align: center;
+    }
+     .feature-2 .col-md-2{
+         max-width: 100%;
+         display: flex;
+         justify-content: center;
+         padding: 20px 0px;
+     }
+     .feature-3 .row{
+         flex-direction: column-reverse;
+     }
+     .feature-3 .col-md-6{
+         max-width: 100%;
+         text-align: center;
+     }
+     .awsome-line{
+        margin: 20px auto;
+     }
+     .circle-design{
+         margin-left: 79px;
+     }
+     .feature-4{
+         padding: 0px;
+         padding: 60px 0px;
+     }
+     .feature-4 .col-md-4{
+         padding-left: 0px;
+         padding-right: 0px;
+         padding: 0PX 5PX;
+     }
+     .feature-4 .col-md-4 .card{
+         width: 14rem;
+     }
+     .price-option {
+         margin-right: 0px;
+     }
+     .pic {
+         padding-left: 30px;
+     }
+     .text{
+         padding-left: 40px;
+     }
+     .stylis{
+         height: auto;
+         padding: 60px 0px
+     }
+     .footer-icon ul {
+        text-align: center;
+        margin-left: 0px;
+     }
+   
+
+  }
+  
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    .navbar-toggler{
+        background-color: white !important;
+    }
+    .navbar-brand {
+        padding-left: 0px;
+    }
+      .banner-form{
+          height: auto;
+        
+      } 
+      .banner{
+          height: auto;
+        
+      }
+      .banner .col-md-6{
+        padding: 0px 20px;
+    }
+    .text-area{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .card{
+        margin-left: 0px;
+        margin-bottom: 60px;
+    }
+    .title{
+        font-size: 23px;
+    }
+    .line{
+        margin: 20px auto;
+    }
+    .text-area img {
+        padding-top: 40px;
+    }
+    .card-header h1 {
+        font-size: 23px;
+    }
+    
+    .social-icon li{
+        font-size: 33px;
+        margin-right: 13px;
+        
+    }
+    .social-icon ul{
+        padding-bottom: 37px;
+    }
+    .feature-1 ul{
+        display:inline-flex;
+    }
+    .feature-1{
+        padding:0px;
+        padding-top: 60px;
+    }
+    .item-1{
+        text-align: center;
+    }
+    .item-1 h3{
+        font-size: 19px;
+    }
+    .taj img{
+        padding: 30px 0px
+    }
+    .feature-2 {
+        padding: 60px 0;
+    }
+    .sub-list{
+        padding-left: 0px;
+        text-align: center;
+    }
+    .sub-line{
+        margin: 20px auto;
+    }
+    .feature-2 .col-md-2{
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 20px 0px;
+    }
+    .feature-3{
+        padding: 0px;
+        margin-bottom: 0px;
+        padding-top: 60px;
+        margin-bottom: 30px;
+    }
+    .feature-3 .col-md-6{
+        text-align: center;
+    }
+    .this{
+        font-size: 26px;
+    }
+    .awsome-line{
+        margin: 20px auto;
+    }
+    .feature-4{
+        padding: 0px;
+        margin: 30px 0px;
+    }
+    .tem{
+        margin-bottom: 0px;
+    }
+    .card-option{
+        margin-bottom: 0px;
+    }
+    .price-option .col-md-4{
+        margin: 30px 0px;
+        padding-left: 33px;
+    }
+    .pricing{
+        padding-top: 30px;
+    }
+    .center{
+        bottom: 0px;
+
+    }
+    .what{
+        font-size: 18px;
+    }
+    .customer .tem{
+        padding-bottom: 20px;
+    }
+    .msg-box{
+        text-align: center;
+    }
+    .pic {
+        text-align: center;
+        margin-left: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 20px;
+    }
+    .text {
+        text-align: center;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .customer-line {
+        margin: 20px auto;
+    }
+    .customer-area{
+        margin-bottom: 0px;
+        margin-bottom: 30px;
+    }
+    .contact-line{
+        margin: 20px auto;
+    }
+    .footer-icon ul{
+        margin-left: 0px;
+    }
+    .stylis{
+        margin-bottom: 0px;
+        margin-bottom: 20px;
+    }
+    
+    .contact {
+        margin-bottom: 40px;
+    }
+    .circle-design {
+        margin-top: 15px;
+    }
+    .design{
+        margin: 10px 0px;
+    }
+    .last{
+        padding-bottom: 30px;
+        font-size: 11px;
+    }
+    footer{
+        margin-bottom: 40px;
+    }
+            
+  }
